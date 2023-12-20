@@ -1,5 +1,4 @@
-# gh-template-rr
-Template pour dépots github
+# Template pour dépots github
 
 # Suggestion d'organisation des fichiers
 - `data/` Fichiers de données (brutes et après traitement)
@@ -15,4 +14,7 @@ Template pour dépots github
         - `sims` Modèles pour simulations
         - `analysis` Modèles pour anayse des données
     - `quarto` Rapports Quarto
-- `docs` Pages html pour rapports QUarto
+- `docs` Pages html pour rapports Quarto
+
+# Lien pour rapport Quarto
+https://rroyaute.github.io/gh-template-rr/
